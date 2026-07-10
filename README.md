@@ -1,9 +1,33 @@
 # Web Semantic Lab
-โปรเจคนี้เป็นส่วนหนึ่งของวิชา Web Frontend Development
-## รายละเอียด
-- การใช้ Semantic HTML
-- Form Validation
-- ARIA Labels
+
+A lab project focused on writing accessible, semantic HTML — covering
+proper use of semantic elements, form validation, and ARIA labels for
+screen-reader accessibility.
+
+## 🛠️ Built With
+- HTML5 (Semantic elements)
+- ARIA (Accessible Rich Internet Applications)
+
+## ✨ Features
+- Semantic HTML structure (`header`, `nav`, `main`, `article`, `aside`, `footer`)
+- Contact form with client-side validation
+- ARIA labels and landmarks for accessibility
+
+## 📄 Pages
+- **Home (`index.html`)** — Homepage using full semantic structure
+- **Contact (`contact.html`)** — Accessible contact form with validation
+  and ARIA support
+
+## 🎯 What I Practiced
+- Structuring pages with semantic HTML tags instead of generic `<div>`s
+- Building accessible forms (validation + ARIA labels)
+- Using ARIA landmarks to improve screen-reader navigation
+- Git feature-branch workflow (`feature/homepage`, `feature/contact`)
+  merged via `development` branch
+
+---
+*Part of coursework for Web Frontend Development, focused on writing
+accessible and semantically correct HTML.*
 
 ## git command used in this lab
 - git config --global user.name Monthorn
